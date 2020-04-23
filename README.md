@@ -1,2 +1,5 @@
 # 845-Results
-CSV files and graphs for flea/parasite project.
+
+A current (as of 4/2020) version of MABE with HHPWorld.
+
+Settings files for various tests.
